@@ -6,6 +6,10 @@ Gemfile.lock
 *.gemfile.lock
 .rvmrc
 .rbenv-version
+config.codekit
+wp-config.php
+.htaccess
+*.map
 
 # Ignore bundler config
 /.bundle
