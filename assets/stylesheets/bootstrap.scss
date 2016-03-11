@@ -1,3 +1,24 @@
+/*!
+Theme Name: _tw underscores
+Theme URI: http://underscores.me/
+Author: TribleWork
+Author URI: http://underscores.me/
+Description: Description
+Version: 1.0.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: _tw-underscores
+Tags:
+
+_tw underscores is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+*/
+
+// underscores stuff
+@import "underscores/mixins/mixins-master";
+@import "underscores/modules/alignments";
+@import "underscores/media/media";
+
 // Core variables and mixins
 @import "bootstrap/variables";
 @import "bootstrap/mixins";
